@@ -8,4 +8,3 @@ Este é um projeto criado com o objetivo de praticar o uso do Git e GitHub em um
 - Aprender a resolver conflitos de merge.
 - Usar a aba de Issues para gerenciar tarefas e problemas.
 - Compreender o fluxo de trabalho com forks e contribuições externas.
-Teste 
